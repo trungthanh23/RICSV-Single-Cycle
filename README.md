@@ -64,7 +64,7 @@ The `ImmExt` unit is a crucial combinational logic block responsible for generat
 
 The diagram below provides a visual representation of how the bits are extracted from each instruction format to construct the immediate value.
 
-![Instruction Formats](./images/Instruction Formats.png)
+![Instruction Formats](./images/Instruction_Format.png)
 
 ### 5. Arithmetic Logic Unit (ALU)
 
