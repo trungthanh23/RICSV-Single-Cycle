@@ -7,7 +7,7 @@ This repository contains the Register-Transfer Level (RTL) design for a 32-bit p
 ## 🌟 Core Features
 
 * **ISA**: RISC-V 32-bit (RV32I Base Integer Instruction Set)
-* **Pipeline**: Single-Cycle Execution
+* **Architecture Type**: Single-Cycle
 * **Modularity**: Designed with distinct modules for the datapath, control unit, and ALU for clarity and reusability.
 * **Supported Instructions**:
     * **R-Type**: `add`, `sub`, `and`, `or`, `slt`
