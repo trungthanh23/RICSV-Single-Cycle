@@ -38,7 +38,7 @@ Zooming into the processor, this diagram illustrates the detailed single-cycle d
 
 The Control Unit is the "brain" of the processor. It decodes the instruction's opcode to generate all necessary signals that command the datapath for the duration of an instruction's execution.
 
-![Main and ALU Decoder Diagram](./images/Main and ALU Decoder Diagram.png)
+![Main and ALU Decoder Diagram](./images/Main_and_ALU_Decoder_Diagram.png)
 
 The logic for the main control signals is defined in the following table:
 
